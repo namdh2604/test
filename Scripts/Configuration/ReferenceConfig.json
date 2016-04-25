@@ -1,0 +1,56 @@
+{
+	"books": [
+		{ 
+			name: "Best Book In Town",
+			spells: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+		},
+		{
+			name: "Mama's Spellbook",
+			spells: [5, 6, 7]
+		},
+		{
+			name: "Abracadabra",
+			spells: [8, 9, 10, 11, 12, 13]
+		},
+		{
+			name: "Hocus Pocus",
+			spells: [14, 15, 16, 17]
+		},
+		{
+			name: "The Good Book",
+			spells: [18, 19, 20]
+		},
+		{
+			name: "Rolling Stone",
+			spells: [21, 22]
+		}
+	],
+	"spells": [
+		"Alter Metal",
+		"Aura of Elven Mana",
+		"Conjuration of Ooze",
+		"Hypnotise Krakens",
+		"King's Invocation of Alteration",
+		"Muck Net",
+		"Negate Health",
+		"Screaming Rains",
+		"Sea Serpent Calling",
+		"The Four Illusions of the Purple Temple",
+		"Wall of Copper",
+		"Acid Chain",
+		"Beaters' Sadness",
+		"Coin Defilement",
+		"Conjure Disruption",
+		"Crystal Control",
+		"Embossed Disks",
+		"Exorcism of Negation",
+		"Flesh Webs",
+		"Ghosts's Serenity",
+		"Heavenly Performance",
+		"Massive Arrow",
+		"Ritual of Venom",
+		"Thundering Geyser",
+		"Touch of Spirit",
+		"Traitor's Honor"
+	]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "user": [
+    {
+      "fields": {
+        "birthday": null,
+        "closet": 30,
+        "delete_flag": false,
+        "email": null,
+        "email_fb": null,
+        "facebook_flag": false,
+        "first_name": null,
+        "focus": 5,
+        "free_currency": 0,
+        "gender": null,
+        "install_date": "2015-05-26T04:50:56.470",
+        "last_name": null,
+        "last_updated": "2015-05-26T04:50:56.470",
+        "nickname": null,
+        "password": null,
+        "phone_id": "99789906",
+        "premium_currency": 0,
+        "scene_id": "",
+        "score": 0,
+        "sns_id": null,
+        "ticket": 5,
+        "total_affinity": 0,
+        "total_alignment": 0,
+        "tutorial_flag": false,
+        "work": null
+      },
+      "model": "witches.wusers",
+      "pk": "55645e20eee5500db7c6cd7f"
+    }
+  ]
+}

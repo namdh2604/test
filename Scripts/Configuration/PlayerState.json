@@ -1,0 +1,40 @@
+{
+	"stamina": 10,
+	"currency": 50,
+	"premiumCurrency": 2,
+	"inventory": [
+		{
+			"id": 0,
+			"quantity": 5
+		},
+		{
+			"id": 1,
+			"quantity": 10 
+		},
+		{
+			"id": 3,
+			"quantity": 20 
+		}
+	],
+	"books": [
+		{
+			"id": 0,
+			"isComplete": true,
+			"recipes": [
+				{ "id": 0, "highscore": 100 },
+				{ "id": 1, "highscore": 91 },
+				{ "id": 2, "highscore": 90 },
+				{ "id": 3, "highscore": 90 },
+				{ "id": 4, "highscore": 95 }
+			]
+		},
+		{
+			"id": 1,
+			"isComplete": false,
+			"recipes": [
+				{ "id": 5, "highscore": 55 },
+				{ "id": 6, "highscore": 0 },
+			]
+		},
+	]
+}

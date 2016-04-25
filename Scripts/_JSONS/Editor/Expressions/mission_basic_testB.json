@@ -1,0 +1,117 @@
+{
+	"header": {
+		"Route": "Main",
+		"Arc": "Prologue",
+		"Group": {
+			"id": 1
+		},
+		"Scene": {
+			"id": 1,
+			"name": "Slow Day Swiftly Interrupted"
+		},
+		"reqs": [
+			{
+				"_class": "Expression",
+				"left": {
+					"_class": "Variable",
+					"text": "Selections/Nik-Ana Main Story/NA Czech Republic/Tricker's Slip/Default"
+				},
+				"right": "\"foobar\"",
+				"op": "="
+			},
+			{
+				"_class": "Expression",
+				"left": "0",
+				"right": null
+			},
+			{
+				"_class": "Expression",
+				"left": 1,
+				"right": 1,
+				"op": "="
+			},
+			{
+				"_class": "Expression",
+				"left": {
+					"_class": "Expression",
+					"left": "\"Foo\"",
+					"right": "\"Bar\"",
+					"op": "AND"
+				},
+				"right": {
+					"_class": "Expression",
+					"left": "2",
+					"right": "3",
+					"op": "<"
+				},
+				"op": "AND"
+			}
+		],
+		"route": "Nik-Ana Main Story",
+		"arc": "NA Czech Republic",
+		"scene": "Tricker's Slip"
+	},
+	"data": [
+		{
+			"_class": "Conditional",
+			"children": [
+				{
+					"_class": "Branch",
+					"expression": {
+						"_class": "Expression",
+						"left": "\"A\"",
+						"right": "\"B\"",
+						"op": "="
+					},
+					"children": [
+						{
+							"_class": "Dialogue",
+							"speaker": null,
+							"text": [
+								"Branch A"
+							],
+							"data": {}
+						}
+					]
+				},
+				{
+					"_class": "Branch",
+					"expression": {
+						"_class": "Expression",
+						"left": "2",
+						"right": null
+					},
+					"children": [
+						{
+							"_class": "Dialogue",
+							"speaker": null,
+							"text": [
+								"Branch B"
+							],
+							"data": {}
+						}
+					]
+				},
+				{
+					"_class": "Branch",
+					"expression": {
+						"_class": "Expression",
+						"left": "3",
+						"right": "1",
+						"op": ">"
+					},
+					"children": [
+						{
+							"_class": "Dialogue",
+							"speaker": null,
+							"text": [
+								"Branch C"
+							],
+							"data": {}
+						}
+					]
+				}
+			]
+		}
+	]
+}

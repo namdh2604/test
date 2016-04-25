@@ -1,0 +1,138 @@
+{
+  "avatar_items": [
+    {
+      "id": "54da8ad76f983f60ee01f895",
+      "quantity": 1
+    },
+    {
+      "id": "54da8ad76f983f60ee01f867",
+      "quantity": 1
+    },
+    {
+      "id": "54da8ad76f983f60ee01f879",
+      "quantity": 1
+    },
+    {
+      "id": "54da8ad76f983f60ee01f86b",
+      "quantity": 1
+    }
+  ],
+  "focus": 5,
+  "currency": 800,
+  "books": [
+    {
+      "recipes": [
+        {
+        	"recipe_id": "54da8aca6f983f60ee01f78a",
+        	"stars": 0
+        },
+        {
+	        "recipe_id": "54da8ad66f983f60ee01f78b",
+	        "stars": 0
+        },
+        {
+	        "recipe_id": "54da8ad66f983f60ee01f78c",
+	        "stars": 0
+        },
+        {
+	        "recipe_id": "54da8ad66f983f60ee01f78d",
+	        "stars": 0
+        },
+        {
+	        "recipe_id": "54da8ad66f983f60ee01f78e",
+	        "stars": 0
+        }
+      ],
+      "id": "54da8a3e6f983f60ee01f778",
+      "is_complete": false
+    }
+  ],
+  "ticket": 5,
+  "alignment": "55",
+  "closet_space": 35,
+  "premium_currency": 100,
+  "affinity": "850",
+  "inventory": [
+    {
+      "id": "54da8ad66f983f60ee01f7a3",
+      "name": "Tap Water",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7ac",
+      "name": "Undine Essence",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7ad",
+      "name": "Rowan Shavings",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7b6",
+      "name": "Rowan Old Growth",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7b7",
+      "name": "Mayapple Seeds",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7c0",
+      "name": "Dryad Mayapple",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7c1",
+      "name": "Juniper Seeds",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7ca",
+      "name": "Dryad Juniper",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7cb",
+      "name": "Silver filings",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7d4",
+      "name": "Silver Crystal",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7d5",
+      "name": "Impure Moonstone",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7de",
+      "name": "Moonstone Dreamglass",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7df",
+      "name": "Artemisia Seeds",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7e8",
+      "name": "Sylvan Artemisia",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7e9",
+      "name": "Rosemary Seeds",
+      "quantity": 5
+    },
+    {
+      "id": "54da8ad66f983f60ee01f7f2",
+      "name": "Salem Rosemary",
+      "quantity": 5
+    }
+  ],
+  "mail_badge": 0
+}
